@@ -36,3 +36,11 @@
 .content-time {
   color: #5e6778;
 }
+
+/* Content */
+.fa-circle {
+  font-size: 12px;
+}
+.toggle-text {
+  font-size: 14px;
+}
