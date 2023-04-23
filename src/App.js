@@ -73,7 +73,7 @@ function App() {
                 </span>{" "}
                 <p className="content-time">5 days ago</p>
               </p>
-              <p className="toggle-text border-solid border-2 border-grayish rounded-lg p-4 text-grayish">
+              <p className="toggle-text border-solid border-2 border-grayish rounded-lg p-4 mt-4 text-grayish">
                 Hello, thanks for setting up the Chess Club. I've been a member
                 for a few weeks now and I'm already having lots of fun and
                 improving my game.

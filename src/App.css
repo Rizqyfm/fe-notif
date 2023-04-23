@@ -37,9 +37,14 @@
   color: #5e6778;
 }
 
+.toggle-text:hover {
+  cursor: pointer;
+  background-color: #e5effa;
+}
+
 /* Content */
 .fa-circle {
-  font-size: 12px;
+  font-size: 10px;
 }
 .toggle-text {
   font-size: 14px;
